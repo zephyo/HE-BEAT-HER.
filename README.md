@@ -17,4 +17,4 @@ I've never shared source code before, so if I'm missing anything, please let me 
 
 
 
-Note: I edited the 3rd party scripts for optimization/ease of use but am not sure if I'm supposed to share that
+Note: I edited the 3rd party scripts for optimization/ease of use but did not include these edits in this repository.
