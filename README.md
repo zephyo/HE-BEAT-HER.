@@ -1,5 +1,5 @@
 # HE-BEAT-HER.
-source code for this game.
+source code for game (https://zephyo.itch.io/he-beat-her) (https://gamejolt.com/games/he-beat-her/273009).
 
 Game engine: Unity 2017.
 
